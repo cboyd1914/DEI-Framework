@@ -67,7 +67,7 @@ We commend the Salesforce.org Open Source Commons Team for the intention and exe
 ### Current Project Team
 
 * Team Leaders: Charise Van Liew, Grace Kim, Sarah Pilzer, Sindhuja Ram
-* Regular subgroup contributors: Akash Mishra, Brie Kramer, Brooke Petit, Christopher Littlefield, Dar Veverka, Eric Steeves, John Sim, Jung Mun, Karmel James, Kristin Medlin, Makeda Keegan, Tasha Rucker, Yvonne Byars
+* Regular subgroup contributors: Akash Mishra, Brie Kramer, Brooke Petit, Christopher Littlefield, Dar Veverka, Eric Steeves, John Sim, Jung Mun, Karmel James, Kristin Medlin, Makeda Keegan, Tasha Rucker, Yvonne Byars, Carlos Boyd, Juliana Cordeiro, Zoraida Younger
 * GitHub Scribes: Karen Fitton, Charise Van Liew
 * Founder and Strategic Advisor: Brittany Daley
 * Former Team Leaders: Emma Bloksberg-Fireovid (Fall 2019 - Spring 2021), Karene-Sean Hines (Fall 2019 - Spring 2020)
